@@ -259,3 +259,19 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Release_old
+/Debug_old
+/TDC_FVT4/Debug_old
+/TDC_FVT4/FW/20180724
+/TDC_FVT4/FW/20180725
+/TDC_FVT4/FW/20180725_1
+/TDC_FVT4/FW/20180726
+/TDC_FVT4/FW/Old
+/TDC_FVT4/FW/Temp
+/TDC_FVT4/FW/V2.054
+/TDC_FVT4/FW/V2.054_1
+/TDC_FVT4/FW/V2.055
+/TDC_FVT4/FW/V2.056
+/TDC_FVT4/FW/V2.058
+/TDC_FVT4/FW/V2.059
+/TDC_FVT4/Release_Old

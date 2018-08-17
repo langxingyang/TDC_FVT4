@@ -30,6 +30,75 @@
     <ClInclude Include="resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="TDC_FVT4_CONFIG_MAINdlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IniFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_Check.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CONFIG_EQUIPMENTdlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CONFIG_SEQUENCEdlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CnComm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGet_Config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTest_Sequence.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SerialPort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSTLinkV2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb_device.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb2adc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb2gpio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb2iic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb2pwm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb2spi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb2uart.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTestBench.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIThread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestBench\usb2ow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cmdLine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMaintenanceTestBenchDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sigslot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TDC_FVT4.cpp">
@@ -39,6 +108,45 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TDC_FVT4_CONFIG_MAINdlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IniFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Check.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CONFIG_EQUIPMENTdlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CONFIG_SEQUENCEdlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CGet_Config.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTest_Sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SerialPort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSTLinkV2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTestBench.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIThread.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cmdLine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMaintenanceTestBenchDlg.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -60,6 +168,21 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="res\Toolbar256.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\kickmaker.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\kickmaker.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Start.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Stop.ico">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>

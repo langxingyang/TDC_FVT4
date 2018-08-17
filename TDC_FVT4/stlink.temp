@@ -1,0 +1,25 @@
+STM32 ST-LINK CLI v2.0.0
+STM32 ST-LINK Command Line Interface
+
+ST-LINK SN : 55FF69066575485537352467
+ST-LINK Firmware version : V2J17S4 (Need Update)
+Old ST-LINK firmware detected!
+Please upgrade it from ST-LINK->'Firmware update' menu.
+Connected via SWD.
+Connection mode : Normal.
+Device ID:0x410 
+Device flash Size : 64 Kbytes
+Device family :STM32F10xx Medium-density
+
+Loading file...
+Flash Programming:
+  File : .\FW\807_FULL.bin
+  Address : 0x08000000
+Flash memory programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0% 0%€€ 5%€€€ 11%€€€ 17%€€€ 23%€€€ 29%€€€ 35%€€€ 41%€€€ 46%€€€ 52%€€€ 58%€€€ 64%€€€ 70%€€€ 76%€€€ 82%€€ 87%€€€ 93%€€€ 99%€ 100%
+Reading and verifying device memory...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0% 0% 1%€ 2% 3%€ 4% 5%€ 6% 7%€ 8% 9%€ 10% 11%€ 12% 13%€ 14% 15%€ 16% 17%€ 18% 19%€ 20% 21%€ 22% 23%€ 24% 25%€ 26% 27%€ 28% 29%€ 30% 31%€ 32% 33%€ 34% 35%€ 36% 37%€ 38% 39%€ 40% 41%€ 42% 43%€ 44% 45%€ 46% 47%€ 48% 49%€ 50% 51%€ 52% 53%€ 54% 55%€ 56% 57%€ 58% 59%€ 60% 61%€ 62% 63%€ 64% 65%€ 66% 67%€ 68% 69%€ 70% 71%€ 72% 73%€ 74% 75%€ 76% 77%€ 78% 79%€ 80% 81%€ 82% 83%€ 84% 85%€ 86% 87%€ 88% 89%€ 90% 91%€ 92% 93%€ 94% 95%€ 96% 97%€ 98% 99%€ 100%
+Flash memory programmed in 10s and 719ms.
+Verification...OK
+Programming Complete.
+
